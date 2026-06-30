@@ -9,7 +9,7 @@
 
 ## 📋 O Que É Este Repositório?
 
-Este repositório documenta dois agentes de IA integrados que auxiliam no desenvolvimento de projetos de TI no Hospital Angelina Caron (HAC):
+Este repositório documenta dois agentes de IA integrados que auxiliam no desenvolvimento de projetos de TI:
 
 - **CORTANA** — Produção de Entregáveis (documentação, código, TAPs, planos)
 - **ASK** — Análise e Validação Técnica (diagnóstico, code review, validação)
