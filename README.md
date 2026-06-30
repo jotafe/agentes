@@ -279,22 +279,6 @@ Acompanhe após 30 dias de uso:
 
 ---
 
-## 📍 Localização Institucional
-
-- **Organização:** Sociedade Hospitalar Angelina Caron Ltda. (HAC)
-- **Localização:** Campina Grande do Sul, Paraná, Brasil
-- **Sistemas Principais:** Tasy HTML5, Oracle Database, Apache NiFi
-- **Gerente de Projetos:** Antonio Borges Neto
-- **Analista TI:** João Fábio Bruno
-
----
-
-## 📝 Licença
-
-Este projeto está sob domínio interno do HAC. Para uso fora da organização, solicitar autorização.
-
----
-
 **Última atualização:** 29/06/2026  
 **Status:** ✅ Operacional  
 **Versão:** 2.0
